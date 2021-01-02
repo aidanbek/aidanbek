@@ -5,6 +5,8 @@
 
 * 🏢 I'm working at [**Kaspi.kz**](http://kaspi.kz) as a backend developer
 * 🔭 I use PHP ([**Laravel**](https://github.com/laravel/laravel), [**Yii2**](https://github.com/yiisoft/yii2)), JavaScript ([**Express.js**](https://github.com/expressjs/express)) and [**Bootstrap**](https://github.com/twbs/bootstrap)
+* [**Telegram**](https://t.me/aidanbek)
+* [**LinkedIn**](https://www.linkedin.com/in/aidanbek)
 
 ![aidanbek's github stats](https://github-readme-stats.vercel.app/api?username=aidanbek&show_icons=true&theme=default)
 
